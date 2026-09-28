@@ -1,0 +1,4 @@
+Download the dataset from:
+  https://archive.ics.uci.edu/dataset/320/student+performance
+Unzip it and copy "student-mat.csv" into this folder (data/).
+The file is SEMICOLON separated (;) - the script already handles this.
